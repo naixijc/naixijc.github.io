@@ -10,7 +10,7 @@
     "title": "服务通道提示",
     "maintenanceText": "维护期间，为尽量减少对您使用的影响，向您推荐下方服务通道。",
     "ordinaryText": "如需了解其他网络服务，可通过下方服务通道查看套餐与使用说明，请按需选择。",
-    "destinationNote": "点击后将前往飞猴云注册页面。",
+    "destinationNote": "点击后将前往推荐服务注册页面。",
     "button": "立即前往专属通道",
     "waitSeconds": 30
   },
